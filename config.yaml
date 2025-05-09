@@ -1,0 +1,13 @@
+# config.yaml
+
+debug: true
+
+visualize: false
+
+DEV:
+  server: "jdbc:sqlserver://fortrack-maz-sdb-san-dev-01.database.windows.net"
+  database: "FortrackDB"
+
+QA:
+  server: "jdbc:sqlserver://fortrack-maz-sdb-san-qa-01.database.windows.net"
+  database: "FortrackDB"

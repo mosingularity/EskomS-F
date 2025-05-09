@@ -7,5 +7,8 @@ pipeline_cache/*
 Backup of previous working version/*
 *.pkl
 .ipynb_checkpoints/*
+.databricks/
 sqljdbc_12.10/*
 venv/*
+.vscode/
+models/

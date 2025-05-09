@@ -1,0 +1,6 @@
+{
+  "host": "https://adb-3881768603606358.18.azuredatabricks.net",
+  "auth_type": "azure-cli",
+  "aad_tenant_id": "93aedbdc-cc67-4652-aa12-d250a876ae79",
+  "port": 443
+}
